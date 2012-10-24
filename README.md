@@ -8,4 +8,4 @@ In the default config, you need PhantomJS installed, change
         "phantomjs"
     ],
 
-accordingly to your situation.
+in testem.json to reflect your own situation. However PhantomJS does testing at ludicrousspeed.
