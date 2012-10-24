@@ -12,10 +12,10 @@ in testem.json to reflect your own situation. However PhantomJS does testing at 
 
 to use. 
 
-Clone the repo. 
-cd into the folder.
-run: testum
-and follow the instruction which would probably only be opening the url http://localhost:7357
+- Clone the repo. 
+- cd into the folder.
+- run: testum
+- follow the instructions, probably just open the url http://localhost:7357
 
 
 
